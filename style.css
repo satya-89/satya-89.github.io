@@ -1,0 +1,12 @@
+img{
+    width: 100% !important;
+}
+
+.intro-title{
+    font-size: 3rem;
+}
+
+.intro-text{
+    text-align: justify;
+}
+.bold { font-weight: bold; }
